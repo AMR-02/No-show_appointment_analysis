@@ -19,11 +19,28 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 ## How to Run:
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+Question 1:
+
+
+Question 2:
+
+
+Question 3:
+
+1- Loading the Dataset: First, the dataset was loaded into a pandas DataFrame, named app_df.
+
+2-Grouping and Counting Data: The SMS_received and No_show columns were then grouped, and the occurrences of each combination were counted. The result was stored in a DataFrame called sms_app.
+
+3-Calculating Percentages: To understand the proportion of each group, the total number of appointments was calculated, and then the percentage of each combination within sms_app was determined.
+
+4-Installing and Importing Matplotlib: To visualize the results, the matplotlib library was installed  using %pip install matplotlib
+
+5-Generating Bar Chart: Finally, a bar chart was created to display the percentages, facilitating easier comparison of the different categories.
 
 
 
 ## Dependencies:
 This project relies on the following Python library for data analysis:
+
 pandas: A powerful and flexible library for data analysis in Python. It provides data structures like DataFrames, which are essential for working with structured data.
