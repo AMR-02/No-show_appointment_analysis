@@ -12,7 +12,8 @@ By identifying these demographic trends and influential factors, this analysis s
 
 
 ## Dataset:
-The dataset used in this project is the "No-Show Appointments" dataset, obtained from Kaggle [(Healthcare No Shows Appointments Dataset - Kaggle)](https://www.kaggle.com/datasets/joniarroba/noshowappointments). This dataset contains information of over 100,000 medical appointments in Brazil, focusing on the patient characteristics and their attendance (or non-attendance) at scheduled appointments. Key features include patient demographics (age, gender), appointment details (scheduled day, appointment day, neighbourhood), and various factors potentially influencing attendance, such as scholarship status (Bolsa Família participation), health conditions (hypertension, diabetes, alcoholism, handicap), and SMS reminders. The dataset aims to help predict whether a patient will show up for a medical appointment or not.
+The dataset used in this project is the "No-Show Appointments" dataset, obtained from Kaggle [(Healthcare No Shows Appointments Dataset - Kaggle)](https://www.kaggle.com/datasets/joniarroba/noshowappointments). This dataset contains information of over 100,000 medical appointments in Brazil, focusing on the patient characteristics and their attendance (or non-attendance) at scheduled appointments. 
+Key features include patient demographics (age, gender), appointment details (scheduled day, appointment day, neighbourhood), and various factors potentially influencing attendance, such as scholarship status (Bolsa Família participation), health conditions (hypertension, diabetes, alcoholism, handicap), and SMS reminders. The dataset aims to help predict whether a patient will show up for a medical appointment or not.
 
 
 
