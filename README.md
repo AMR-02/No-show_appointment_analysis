@@ -29,6 +29,16 @@ Recommendation:
 
 
 **Question 2: How do the following factors influence patients' medical appointment attendance?**
+Key Finding:
+
+1- Waiting Days:Most patients attended when the appointment was on the same day or within 1 week.
+As the waiting time increases, the number of no-shows also increases
+
+2- Scholarship: Patients without scholarships had a slightly higher show-up rate (80.2%) compared to those with scholarships (76.3%). Difference is small, so scholarship status does not have a major effect.
+
+3- Handicap: Handicapped patients showed up more often (82.1%) than non-handicapped (79.8%).The difference is minor, meaning handicap level has limited impact on attendance.
+
+4- Alcoholism:Alcoholic and non-alcoholic patients had very similar show-up rates (around 79.8%).Alcoholism seems to have no strong effect on whether a patient misses their appointment.
 
 
 
