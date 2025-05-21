@@ -14,7 +14,16 @@ The dataset used in this project is the "No-Show Appointments" dataset, obtained
 
 
 ## Analysis:
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Question 1: What percentage of males and females don't show up to the appointments & which age group do they mostly fall into? 
+
+
+Question 2: How do the following factors influence patients' medical appointment attendance?
+
+
+
+
+Question 3: Does sending an SMS reminder reduce the likelihood of a no-show?
+Surprisingly, the most frequent occurrence in the data is patients showing up for appointments without receiving an SMS reminder. While SMS reminders did correlate with some patients showing up, a significant number of those who received reminders still missed their appointments. This suggests that SMS reminders alone do not guarantee higher attendance in this dataset.
 
 
 
