@@ -27,6 +27,7 @@ Question 2:
 
 
 Question 3:
+
 1- Loading the Dataset: First, the dataset was loaded into a pandas DataFrame, named app_df. 
 
 2-Grouping and Counting Data: The SMS_received and No_show columns were then grouped, and the occurrences of each combination were counted. The result was stored in a DataFrame called sms_app.
