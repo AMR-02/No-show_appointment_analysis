@@ -26,7 +26,7 @@ Question 1:
 Question 2:
 
 
-Question 3:
+Question 3: For the 3rd question, 5 steps were used to answer the question.
 
 1- Loading the Dataset: First, the dataset was loaded into a pandas DataFrame, named app_df. 
 
@@ -44,3 +44,5 @@ Question 3:
 This project relies on the following Python library for data analysis:
 
 pandas: A powerful and flexible library for data analysis in Python. It provides data structures like DataFrames, which are essential for working with structured data.
+
+matplotlib: An important and useful library for creating different types of charts in Python.
